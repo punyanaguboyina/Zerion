@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="TestSuite">
+
+<!--  <test name="CodingActivity1FireFoxTest">
+
+<parameter name="browser" value="Firefox" />
+
+<classes>
+
+<class name="zerionactivity.CodingActivity1">
+
+</class>
+
+</classes>
+
+</test>
+
+<test name="CodingActivity2FireFoxTest">
+
+<parameter name="browser" value="Firefox" />
+
+<classes>
+
+<class name="zerionactivity.CodingActivity2">
+
+</class>
+
+</classes>
+
+</test> -->
+
+<!--
+<test name="CodingActivity1ChromeTest">
+
+<parameter name="browser" value="Chrome" />
+
+<classes>
+
+<class name="zerionactivity.CodingActivity1">
+
+</class>
+
+</classes>
+
+</test>
+
+<test name="CodingActivity2ChromeTest">
+
+<parameter name="browser" value="Chrome" />
+
+<classes>
+
+<class name="zerionactivity.CodingActivity2">
+
+</class>
+
+</classes>
+
+</test>
+ -->
+ <test name="CodingActivity1EdgeTest">
+
+<parameter name="browser" value="Edge" />
+
+<classes>
+
+<class name="zerionactivity.CodingActivity1">
+
+</class>
+
+</classes>
+
+</test>
+
+<test name="CodingActivity2EdgeTest">
+
+<parameter name="browser" value="Edge" />
+
+<classes>
+
+<class name="zerionactivity.CodingActivity2">
+
+</class>
+
+</classes>
+
+</test>
+
+</suite>
