@@ -4,7 +4,7 @@
 
 <suite name="TestSuite">
 
-<!--  <test name="CodingActivity1FireFoxTest">
+<test name="CodingActivity1FireFoxTest">
 
 <parameter name="browser" value="Firefox" />
 
@@ -30,7 +30,7 @@
 
 </classes>
 
-</test> -->
+</test>
 
 <!--
 <test name="CodingActivity1ChromeTest">
@@ -60,7 +60,7 @@
 </classes>
 
 </test>
- -->
+
  <test name="CodingActivity1EdgeTest">
 
 <parameter name="browser" value="Edge" />
@@ -88,5 +88,5 @@
 </classes>
 
 </test>
-
+ -->
 </suite>
