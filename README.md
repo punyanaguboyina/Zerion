@@ -34,7 +34,7 @@ Chrome web browser version: 58.0.3029.81
 Microsoft Edge browser version: 38.14393.1066.0
 
 # Running the tests
-1. Pull code to local machine.
+1. Create a folder and copy code into that folder.
 2. Open Command Prompt
 3. Change directory to where pom.xml file is located on your local machine.
 4. mvn clean install
