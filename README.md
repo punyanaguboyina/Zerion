@@ -31,7 +31,7 @@ Firefox web browser version: 53.0
 
 Chrome web browser version: 58.0.3029.81
 
-Microsoft Edge browser version: 38.14393.1066.0
+Microsoft Edge browser version: 15.15063
 
 # Running the tests
 1. Create a folder and copy code into that folder.
