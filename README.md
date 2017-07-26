@@ -47,13 +47,16 @@ Test Case1:
 
 1. Confirm correct user is logged in. You can compare username with login credentials to
 what is shown in the top right corner.
+
 2. After new record is create, confirm that the record is displayed in the list view and that
 the data is correct.
 
 Test Case2:
 
-Confirm correct user is logged in. You can compare username with login credentials to
+1. Confirm correct user is logged in. You can compare username with login credentials to
 what is shown in the top right corner.
+
 2. After creating a new user, confirm that user is now shown in the main Add/Edit user
 page.
+
 3. Confirm correct user is logged in.
